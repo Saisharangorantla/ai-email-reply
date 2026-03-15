@@ -1,0 +1,5 @@
+package com.sharan.EmailReply.config;
+
+public class WebConfig {
+
+}
